@@ -1,0 +1,61 @@
+body
+     {
+       
+    background-color: rgb(212, 245, 218);
+    width: 100%;
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+        img
+        {
+           width: 200px;
+           height: auto;
+        }
+        h1
+        {
+            color: rgb(7, 57, 27);
+        }
+        h2
+        {
+            color: rgb(7, 57,27);
+        }
+        h3
+        {
+            color: rgb(7, 57, 27);
+        }
+        h4
+        {
+            color: rgb(7, 57, 27);
+        }
+        h5
+        {
+            color: rgb(7, 57, 27);
+        }
+        li
+        {
+            color: rgb(7, 57, 27);
+        }
+        th
+        {
+            color: rgb(7, 57, 27);
+        }
+        td
+        {
+            color: rgb(7, 57, 27);
+        }
+        a
+        {
+            color: rgb(7, 57, 27);
+        }
+        th,td
+        {
+            padding: 0 6px;
+            text-align: left;
+        }
+        label
+        {
+            padding: 10px;
+        }
